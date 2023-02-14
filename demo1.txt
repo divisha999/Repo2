@@ -1,1 +1,2 @@
-This is a demo file
+This is a demo file.
+I am a new user.
